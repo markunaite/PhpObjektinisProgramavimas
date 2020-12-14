@@ -8,10 +8,9 @@ services:
       restart: unless-stopped
       environment:
         - MYSQL_ROOT_PASSWORD=nera
-      volumes:
+      volumes:        
         - ./.dev/testing.cnf:/etc/mysql/conf.d/testing.cnf:ro
-      tmpfs: 
-        - /var/lib/mysql:rw,noexec,nosuid,size=300m
+        - ./.dev/db:/var/lib/mysql              
   
     phpmyadmin:
         image: phpmyadmin
