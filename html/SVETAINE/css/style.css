@@ -1,0 +1,29 @@
+body {
+
+    background-color: rgb(220, 212, 183);
+}
+
+h2 {
+
+    text-transform: uppercase;
+    text-align: center;
+    color: rosybrown;
+}
+
+table, th, td {
+
+    border: solid 2px rgb(169, 133, 120);
+   text-align: center;
+}
+
+th {
+
+    padding: 5%;
+}
+
+table {
+
+    border-collapse: collapse;
+    width: 20%;
+    margin: 0 auto;
+}
