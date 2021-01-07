@@ -31,3 +31,22 @@ docker-compose stop
 ```
 docker-compose down
 ```
+
+# PHP ir MySQL db
+
+```
+docker exec -it <phpcontainerid> bash  
+```
+
+inside container:
+
+```
+docker-php-ext-install mysqli
+
+apachectl restart
+```
+
+Prisijungti prie db:
+```
+host = phpmyadmin_db
+```

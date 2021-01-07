@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(187, 223, 255);
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    
+}
+
+h1 {
+    font-weight: 100;
+    color: rgb(71, 76, 87);
+}
+
+h3 {
+    font-weight: 300;
+    margin-top: -20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 0 auto;
+    
+}
+
+tr, td {
+    border: 1px solid rgb(240, 240, 240);
+    border-right: 1px solid rgb(187, 223, 255);
+    border-left: 1px solid rgb(187, 223, 255);
+    padding: 2%;
+    color: rgb(118, 118, 118);
+    
+}
+
+.players {
+    width: 250px;
+    border-radius: 50%;
+    border: solid 2px white;
+}
+
+.link {
+    font-weight: 500;
+    font-style: italic;
+}
+

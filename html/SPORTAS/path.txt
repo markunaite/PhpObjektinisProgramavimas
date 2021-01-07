@@ -1,0 +1,55 @@
+12,Mert Gunok,images/gunok.jpg,Istanbul
+13,Hasan Ali Kaldirim,images/kaldirim.jpg,Istanbul
+14,Rafael,images/rafael.jpg,Istanbul
+15,Mehmet Topal,images/topal.jpg,Istanbul
+16,Berkay Ozcan,images/ozcan.jpg, Istanbul
+17,Irfan Can Kahveci,images/kahveci.jpg,Istanbul
+18,Mahmut Tekdemir,images/tekdemir.jpg,Istanbul
+19,Frederik Gulbrandsen,images/gulbrandsen.jpg,Istanbul
+20,Deniz Turuc,images/turuc.jpg,Istanbul
+21,Carlos Ponck,images/ponck.jpg,Istanbul
+22,Enzo Crivelli,images/crivelli.jpg,Istanbul
+23,Andre Onana,images/onana.jpg,Ajax
+24,Perr Schuurs,images/schuurs.jpg,Ajax
+25,Davy Klaassen,images/klaassen.jpg,Ajax
+26,Ryan Gravenberch,images/gravenberch.jpg,Ajax
+27,Dusan Tadic,images/tadic.jpg,Ajax
+28,Noussair Mazraoui,images/mazraoui.jpg,Ajax
+29,Zakaria Labyad,images/labyad.jpg,Ajax
+30,Lisandro Martinez,images/martinez.jpg,Ajax
+31,Brian Brobbey,images/brobbey.jpg,Ajax
+32,Nicolas Tagliafico,images/tagliafico.jpg,Ajax
+33,Antony,images/antony.jpg,Ajax
+34,Pierluigi Gollini,images/gollini.jpg,Atalanta
+35,Rafael Toloi,images/toloi.jpg,Atalanta
+36,Robin Gosens,images/gosens.jpg,Atalanta
+37,Alejandro Gomez,images/gomez.jpg,Atalanta
+38,Remo Freuler,images/freuler.jpg,Atalanta
+39,Marten de Roon,images/roon.jpg,Atalanta
+40,Cristian Romero,images/romero.jpg,Atalanta
+41,Berat Djimsiti,images/djimsiti.jpg,Atalanta
+42,Matteo Pessina,images/pessina.jpg,Atalanta
+43,Hans Hateboer,images/hateboer.jpg,Atalanta
+44,Duvan Zapata,images/zapata.jpg,Atalanta
+45,Jesper Hansen,images/hansen.jpg,Midtjylland
+46,Dion Cools,images/cools.jpg,Midtjylland
+47,Sory Kaba,images/kaba.jpg,Midtjylland
+48,Evander,images/evander.jpg,Midtjylland
+49,Awer Mabil,images/mabil.jpg,Midtjylland
+50,Alexander Scholz,images/scholz.jpg,Midtjylland
+51,Erik Sviatchenko,images/sviatchenko.jpg,Midtjylland
+52,Paulinho,images/paulinho.jpg,Midtjylland
+53,Anders Dreyer,images/dreyer.jpg,Midtjylland
+54,Frank Onyeka,images/onyeka.jpg,Midtjylland
+55,Jens-Lys Cajuste,images/cajuste.jpg,Midtjylland
+56,Caoimhin Kelleher,images/kelleher.jpg,Liverpool
+57,Fabinho,images/fabinho.jpg,Liverpool
+58,Naby Keita,images/keita.jpg,Liverpool
+59,Mohamed Salah,images/salah.jpg,Liverpool
+60,Takumi Minamino,images/minamino.jpg,Liverpool
+61,Diogo Jota,images/jota.jpg,Liverpool
+62,Kostas Tsimikas,images/tsimikas.jpg,Liverpool
+63,Divock Origi,images/origi.jpg,Liverpool
+64,Rhys Williams,images/williams.jpg,Liverpool
+65,Leighton Clarkson,images/clarkson.jpg,Liverpool
+66,Trent Alexander-Arnold,images/arnold.jpg,Liverpool
