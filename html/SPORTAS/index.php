@@ -12,7 +12,7 @@
 
 <body>
     <h1>Group stage - Matchday 6</h1>
-    <h3>Wednesday 9 December 2020</h2>
+    <h3>Wednesday 9 December 2020</h3>
     <!-- duombazėje sukurta team skiltis, kuri identifikuoja, kurioje 
     komandoje žaidžia tam tikras žaidėjas ir taip sukuria nuorodą į startinį komandos 11uką.  -->
     <table> 
