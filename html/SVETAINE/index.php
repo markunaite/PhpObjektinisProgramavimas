@@ -22,7 +22,7 @@
 
         <tr>
             <td><img onmouseover="neryski(this)" onmouseout="ryski(this)" src="images/tetis.jpg" alt="tetis"></td>
-            <td><a href="tetis.php" target="_blank"> Tėtis</th>
+            <td><a href="tetis.php" target="_blank"> Tėtis</td>
         </tr>
 
         <tr>
