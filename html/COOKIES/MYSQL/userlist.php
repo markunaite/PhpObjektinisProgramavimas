@@ -8,7 +8,7 @@
 <?php
 require_once("config.php");
 $query = "SELECT * from userlist where id_user = $_GET[id_user]";
-$usr = mysqli_query($query);
+$usr = mysqli_query($conncetion, $query);
 if(!$usr) {
     exit("Klaida".mysql_error());
 }

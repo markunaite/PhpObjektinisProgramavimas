@@ -18,12 +18,13 @@
         exit("Klaida autorizacijoje");
     }
     $total = mysqli_fetch_array($usr);
-        if ($total >0) {
-            setcookie("user", urlencode($_POST['name']), time() + 3600*24);
+        if(mysqli_num_rows($usr)>0) {
+            setcookie("user", urlencode($_POST['name']), time() + 60);
             echo "<html><head>
             <meta http-equiv='Refresh' content='0;url=$_SERVER[PHP_SELF]'>
             </head></html>";
         }
+        print_r($total);
     }
     ?>
     <form method="post">
@@ -39,7 +40,7 @@
         echo "Labas, ".$_COOKIE['user']."!<br>";
         echo "Prieiga prie jusu slaptu duomenu<br>";
         $query = "SELECT * from userlist where name = '$_COOKIE[user]'";
-        $usr = mysqli_query($query);
+        $usr = mysqli_query($connection, $query);
         if(!$usr) {
             exit(mysqli_error());
         }

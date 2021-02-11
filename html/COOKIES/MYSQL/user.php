@@ -9,7 +9,7 @@
 <?php
 require_once("config.php");
 $query = "SELECT * from userlist order by name";
-$usr = mysqli_query($query);
+$usr = mysqli_query($connection, $query);
 if(!$usr) {
     exit("Klaida".mysqli_error());
 }
