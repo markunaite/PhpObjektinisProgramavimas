@@ -46,8 +46,8 @@
     }    
 ?>
 
-<strong>Teisingai atsakyta <?php echo $score;?> is 5</strong>
-<strong>Tavo pazymys <?php echo $score*2;?></strong>
+<strong>Teisingai atsakyta <?php echo $score;?> iš 5</strong>
+<strong>Tavo pažymys <?php echo $score*2;?></strong>
 
 </body>
 </html>
