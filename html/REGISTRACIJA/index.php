@@ -16,7 +16,8 @@ if(@$_SESSION['user']) {
 </head>
 
 <body>
-    <form action="" method="POST">
+    <form action="" method="POST">   
+
         <label>Login</label>
         <input type="text" placeholder="Iveskite savo login">
         <label>Slaptazodis</label>
