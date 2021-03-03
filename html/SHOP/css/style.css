@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(185, 206, 210);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+h2 {
+    color: white;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+a {
+    text-transform: none;
+    color: white;
+}
+
+a:visited {
+    text-transform: none;
+    color: white;
+}
+
+input{
+    margin: 10px 0;
+    padding: 10px;
+    border: unset;
+    border-bottom: 2px solid whitesmoke;
+    outline: none;
+    border-radius: 10px;
+    color: grey;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+ }
+
+ .questions {
+     letter-spacing: 1px;
+     margin: 20px;
+     color: aliceblue;
+     text-transform: uppercase;
+     font-weight: 700;
+ }
+
+ .laukas {
+     text-align: center;
+ }
+
+ table {
+    border-collapse: collapse;
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 1%;
+}
+
+th {
+    padding: 1%;
+}
+
+tr{
+    border: 1px solid rgb(240, 240, 240);
+    border-right: 1px solid rgb(187, 223, 255);
+    border-left: 1px solid rgb(187, 223, 255);
+    padding: 2%;
+    color: rgb(118, 118, 118);
+}
+
+input[value="Įsidėti į krepšelį"], input[value="Kitas"] {
+    width: 150px;
+    height: 40px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 20px;
+    margin-top: 15px;
+    color: #89a1b0;
+    cursor: pointer;
+   font-size: 15px;
+}
+
+input:hover {
+    opacity: 0.7;
+  }
+
+button {
+    width: 150px;
+    height: 40px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 20px;
+    margin-top: 15px;
+    color: #89a1b0;
+    cursor: pointer;
+   font-size: 15px;
+  }
+
+  .btn {
+    color: rgb(118, 118, 118);
+  }
+
+  p {
+      margin: 10px 0px 10px 0px;
+      color: rgb(118, 118, 118);
+  }
